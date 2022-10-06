@@ -2,4 +2,4 @@
 - 👀 I’m interested in numismatics and web development!
 - 🌱 I’m currently learning threejs!
 - 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me https://be.linkedin.com/in/bailey-lievens-69b4b01ba !
+- 📫 How to reach me https://www.linkedin.com/in/baileylievens/ !
