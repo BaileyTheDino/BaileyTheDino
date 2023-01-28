@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bailey-Lievens
 - 👀 I’m interested in numismatics and web development!
-- 🌱 I’m currently learning threejs!
+- 🌱 I’m currently learning docker!
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me https://www.linkedin.com/in/baileylievens/ !
